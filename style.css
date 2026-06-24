@@ -3,3 +3,9 @@
     padding: 0px;
     font-family: "Poppins", sans-serif;
 }
+.main_box{
+    background: url("photo.jpg");
+    background-size: cover;
+    height:100vh;
+    
+}
