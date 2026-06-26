@@ -1,3 +1,4 @@
 # My CSS Mini Project
 
-# logo and anchor tag
+# button two 
+# line height:60 px becomes div height and icon alogn centre accodimg to it
