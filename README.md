@@ -1,3 +1,4 @@
-# My CSS Mini Project
-
-# display none means gayab with giving space of that gayab elemnent so all push upwards
+# My CSS Mini Project basic set up
+# main box 
+  # side bar menu
+  # social media
