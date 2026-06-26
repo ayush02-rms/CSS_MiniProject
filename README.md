@@ -1,3 +1,3 @@
 # My CSS Mini Project
 
-# .menu(gallery etc)
+# .menu ki list ko(margin and padding)
