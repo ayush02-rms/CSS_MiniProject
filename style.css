@@ -40,7 +40,7 @@
 }
 .sidebar_menu .logo a{
     position: absolute;
-    left:30px;
+    left:50px;
     font-size: 20px;
     font-weight: 500px;
     color: white;
@@ -76,6 +76,23 @@
     color: white;
     font-size: 20px;
 
+}
+.sidebar_menu .social_media{
+    
+    position: absolute;
+    left:25%;
+    bottom: 50px;
+
+}
+.sidebar_menu .sidebar_menu i{
+    color: white;
+    opacity: 0.5;
+    padding: 0.5px;
+
+
+}
+#check{
+    display: none;
 }
 
 
